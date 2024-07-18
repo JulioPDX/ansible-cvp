@@ -46,7 +46,7 @@ To upgrade the collection to the latest available version, run the following com
 ansible-galaxy collection install arista.cvp --upgrade
 ```
 
-You can also install a specific version of the collection, for example, if you need to downgrade when something is broken in the latest version (please report an issue in this repository). Use the following syntax to install version 4.7.1:
+You can also install a specific version of the collection, for example, if you need to downgrade when something is broken in the latest version (please report an issue in this repository). Use the following syntax to install version 3.10.1:
 
 ```shell
 ansible-galaxy collection install arista.cvp:==3.10.1
