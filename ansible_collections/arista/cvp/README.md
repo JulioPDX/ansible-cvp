@@ -17,7 +17,7 @@ Even if the `arista.cvp` collection is integrated with the `arista.avd` collecti
 The CVP collection has the following requirements:
 
 - Python 3.9+
-- Ansible Core 2.14.0 to 2.16.x
+- Ansible Core 2.15.0 to 2.17.x
 - Install the arista.cvp collection
 - [Additional Python packages](#additional-python-dependencies)
 
