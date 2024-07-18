@@ -155,7 +155,8 @@ A more complete [guide for contribution](hhttps://avd.arista.com/stable/docs/con
 
 ## Support
 
-Support for this `arista.cvp` collection is provided by the community directly in this repository. If you have any questions, please open an [issue](https://github.com/aristanetworks/ansible-cvp/issues).
+- The `arista.avd` Ansible collection version 4.x releases and higher offer full support from Arista TAC, which includes the `arista.cvp` Ansible collection. If your organization has the [A-Care subscription](https://www.arista.com/assets/data/pdf/AVD-A-Care-TAC-Support-Overview.pdf) please don't hesitate to contact TAC with any questions or issues.
+- Community support is provided via [Github discussions board](https://github.com/aristanetworks/ansible-cvp/discussions).
 
 ## License
 
