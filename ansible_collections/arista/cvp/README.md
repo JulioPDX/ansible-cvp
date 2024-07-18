@@ -151,7 +151,6 @@ Contributing pull requests are gladly welcomed for this repository. If you are p
 
 You can also open an [issue](https://github.com/aristanetworks/ansible-cvp/issues) to report any problem or to submit enhancement.
 
-
 ## Support
 
 - The `arista.avd` Ansible collection version 4.x releases and higher offer full support from Arista TAC, which includes the `arista.cvp` Ansible collection. If your organization has the [A-Care subscription](https://www.arista.com/assets/data/pdf/AVD-A-Care-TAC-Support-Overview.pdf) please don't hesitate to contact TAC with any questions or issues.
